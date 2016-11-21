@@ -2,7 +2,7 @@ import unittest
 import ex2
 
 '''some insertion'''
-
+'''some more insertion'''
 class TestSwitchBoard(unittest.TestCase):
     def setUp(self):
         self._small_board = ex2.SwitchBoard(5)
