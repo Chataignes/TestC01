@@ -2,7 +2,8 @@ import unittest
 import ex2
 
 '''some insertion'''
-
+'''hihihi'''
+'''bye'''
 class TestSwitchBoard(unittest.TestCase):
     def setUp(self):
         self._small_board = ex2.SwitchBoard(5)
